@@ -9,6 +9,7 @@
   * Analytics
     * [Matomo](https://matomo.org/) - Matomo is the leading open-source analytics platform that gives you more than just powerful analytics. Can be self hosted or cloud hosted.
     * [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
+    * [MOJAQ](https://mojaq.com) - Cookieless, EU-hosted (Helsinki) analytics with no consent banner needed.
   * Checklist
     * [GDPR Checklist](https://gdprchecklist.io) - The GDPR Compliance Checklist - This is a basic checklist you can use to harden your GDPR compliancy.
   * Maps
@@ -30,4 +31,3 @@
 ## What is GDPR ?
 
 The General Data Protection Regulation is a new EU regulation enforced since 25 May 2018.
-
